@@ -6,7 +6,7 @@
 **Revisions**
 - I condensed a lot of the elements on the CSS Stylesheet to ensure that they were way cleaner and easieer to look at. I condensed the style elements as well as the tags and selectors. 
 
--There were a few things I was able to do in the HTML file to make it more conclusive and well-built. I added an ID to fix the link that wasn't working so it was functional. Next, I added alt image attributes that were much needed for strong accessibility. Lastly, I changed all the non descriptive tags with semantic HTML to work with accessibilty. 
+- There were a few things I was able to do in the HTML file to make it more conclusive and well-built. I added an ID to fix the link that wasn't working so it was functional. Next, I added alt image attributes that were much needed for strong accessibility. Lastly, I changed all the non descriptive tags with semantic HTML to work with accessibilty. 
 - I finished by adding notes to the style sheet and the index.html page. It reads a description of what is happening within the stylesheet and html page. 
 
 
